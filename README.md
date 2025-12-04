@@ -26,7 +26,8 @@ List of major technologies / frameworks used in this project, for example:
 ---
 
 
-```
+
 ## Authour  
+```
      Karthik LU
 ```
