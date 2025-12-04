@@ -25,17 +25,6 @@ List of major technologies / frameworks used in this project, for example:
 
 ---
 
-## 📄 Table of Contents  
-- [Getting Started](#getting-started)  
-- [Installation & Setup (Local Development)](#installation--setup-local-development)  
-- [Usage](#usage)  
-- [Features](#features)  
-- [Project Status](#project-status)  
-- [Contributing](#contributing)  
-- [Credits / Acknowledgements](#credits--acknowledgements)  
-- [License](#license)  
-
----
 
 ```
 ## Authour  
