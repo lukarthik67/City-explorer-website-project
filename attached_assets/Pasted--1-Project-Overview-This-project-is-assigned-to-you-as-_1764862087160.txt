@@ -1,0 +1,99 @@
+✅ 1. Project Overview 
+This project is assigned to you as part of your Frontend Internship Program at 
+B2World.The purpose of this project is to assess your frontend development skills, 
+including your ability to design user interfaces, handle structured data on the frontend, and 
+build a fully responsive and interactive website. 
+You are required to build a frontend-only blogging and city information website where 
+users can explore different cities, read blog-style content, and view famous tourist places, 
+food, and travel information. 
+⚠️ Important: This is a pure frontend project. No backend, database, or authentication 
+system is required. 
+ 
+✅ 2. Tech Stack (Mandatory) 
+You may use either of the following: 
+ HTML5 
+ CSS3 (Flexbox, Grid, Responsive Design) 
+ JavaScript (ES6+) 
+✅ Optional & Bonus: 
+ React.js 
+ Bootstrap / Tailwind CSS 
+ 
+ 
+ 
+ 
+ 
+ 
+✅ 3. Website Structure & Pages 
+�
+� 1. Home Page 
+Must include: 
+ Navigation Bar (Logo, Home, Cities, Blogs, Contact) 
+ Search bar for cities 
+ Featured Cities Section (4–6 cities) 
+ Categories (Historical, Beaches, Hill Stations, Tech Cities, Cultural) 
+ Footer with basic company info and social links 
+ 
+�
+� 2. Cities Listing Page 
+Must include: 
+ Grid layout of all cities 
+ City Cards with: 
+o City Name 
+o State/Country 
+o Image 
+o Short Description 
+o “View Details” Button 
+ Category-based filter option 
+ 
+�
+� 3. City Detail Page (Most Important) 
+Each city must have the following details: 
+1. City Banner with Title & Short Tagline 
+2. About the City (History, Culture, Climate) 
+3. Best Time to Visit 
+4. Ideal Trip Duration 
+5. Famous Tourist Places (Minimum 5 places per city): 
+o Place Name 
+o Image 
+o Description 
+o Visiting Time 
+o Entry Fee 
+6. Local Food & Special Dishes 
+7. How to Reach (By Air, Train, Road) 
+8. City Blog Section (2–3 blog cards per city) 
+ 
+ 
+ 
+�
+� 4. Blog Detail Page 
+ Blog Title 
+ City Name 
+ Date & Author (Dummy) 
+ Featured Image 
+ Well-structured blog content 
+ Back navigation 
+ 
+�
+� 5. About & Contact Page 
+ About Website / About B2World (Short Info) 
+ Contact Form (Frontend Only with JS alert message) 
+ 
+✅ 4. Data Handling Instructions 
+ All data must be stored in: 
+✅ JavaScript objects OR 
+✅ JSON files fetched using fetch() 
+❌ No database, no backend, no API integration is required. 
+ 
+✅ 5. Mandatory Features 
+ Fully Responsive Design (Mobile, Tablet, Desktop) 
+ Working Search for Cities 
+ Dynamic City Rendering using JavaScript or React 
+ Clean UI & Smooth Navigation 
+ No broken links 
+ 
+✅ 6. Bonus Features (For Extra Evaluation Marks) 
+ Dark Mode Toggle 
+ Add to Favorite / Wishlist 
+ Live Search Suggestions 
+ Animations & Transitions 
+ PWA Support (Optional)
