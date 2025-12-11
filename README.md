@@ -14,7 +14,7 @@ The goal is to provide an intuitive, user-friendly interface for discovering and
 
 
 
-## Authour  
+## Developer
 ```
      Karthik LU
 ```
